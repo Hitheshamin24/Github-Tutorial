@@ -1,0 +1,49 @@
+#  What is a Branch in Git?
+
+##  Definition
+
+A branch is a **separate line of development** in Git.
+
+---
+
+##  Simple Explanation
+
+Think of it like:
+
+* You are working on a project
+* You want to try a new feature without breaking main code
+
+ So you create a branch
+
+---
+
+##  Example
+
+```id="g3l7u8"
+main (original code)
+   |
+   ├── feature-login
+   ├── feature-payment
+```
+
+---
+
+##  Why Branching?
+
+* Safe experimentation
+* Parallel development
+* Team collaboration
+
+---
+
+##  Default Branch
+
+* Usually called: `main` or `master`
+
+---
+
+##  Summary
+
+Branch = Independent workspace for new changes
+
+---
