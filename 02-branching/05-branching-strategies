@@ -1,0 +1,52 @@
+# Branching Strategies
+
+## What is a Strategy?
+
+A structured way teams use branches.
+
+---
+
+## Popular Strategies
+
+### 1. Git Flow
+
+* main → production
+* develop → working branch
+* feature → new features
+
+---
+
+### 2. Feature Branching
+
+Each feature has its own branch.
+
+---
+
+### 3. Release Branching
+
+Separate branch for release preparation.
+
+---
+
+## Example
+
+```
+main
+ └── develop
+      ├── feature-login
+      ├── feature-payment
+```
+
+---
+
+## Why Important?
+
+* Keeps code organized
+* Avoids conflicts
+* Improves teamwork
+
+---
+
+## Summary
+
+Strategy = Organized way to use branches
