@@ -1,6 +1,6 @@
-# 📘 What is Git?
+# What is Git?
 
-## 🔹 Definition
+## Definition
 
 Git is a **version control system** that helps you track changes in your code.
 
@@ -8,7 +8,7 @@ Git is a **version control system** that helps you track changes in your code.
 
 ##  Simple Explanation (Beginner Friendly)
 
-Imagine you are writing notes 📒:
+Imagine you are writing notes :
 
 * You save version 1
 * Then you edit → version 2
@@ -42,7 +42,7 @@ Think of **Google Docs version history**:
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 * Version tracking
 * Branching
