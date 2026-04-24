@@ -1,6 +1,6 @@
-# 🧾 Basic Git Commands
+# Basic Git Commands
 
-## 📌 Check Status
+## Check Status
 
 ```bash
 git status
@@ -8,7 +8,7 @@ git status
 
 ---
 
-## 📌 Add Files
+##  Add Files
 
 ```bash
 git add file.txt
@@ -17,7 +17,7 @@ git add .
 
 ---
 
-## 📌 Commit Changes
+##  Commit Changes
 
 ```bash
 git commit -m "message"
@@ -25,7 +25,7 @@ git commit -m "message"
 
 ---
 
-## 📌 View History
+##  View History
 
 ```bash
 git log
@@ -33,7 +33,7 @@ git log
 
 ---
 
-## 📌 Check Differences
+## Check Differences
 
 ```bash
 git diff
@@ -41,7 +41,7 @@ git diff
 
 ---
 
-## 📌 Remove File
+##  Remove File
 
 ```bash
 git rm file.txt
@@ -49,7 +49,7 @@ git rm file.txt
 
 ---
 
-## 📌 Summary Table
+## Summary Table
 
 | Command    | Purpose       |
 | ---------- | ------------- |
