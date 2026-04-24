@@ -1,4 +1,4 @@
-# ⚙️ Installing Git
+# Installing Git
 
 ##  Windows
 
@@ -39,7 +39,7 @@ git version x.x.x
 
 ---
 
-## 👤 Configure Git (Important)
+## Configure Git (Important)
 
 ```bash
 git config --global user.name "Your Name"
