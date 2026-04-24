@@ -1,6 +1,6 @@
-# 🔄 Git Workflow
+#  Git Workflow
 
-## 🔹 Basic Workflow
+##  Basic Workflow
 
 ```
 Working Directory → Staging Area → Repository
@@ -8,7 +8,7 @@ Working Directory → Staging Area → Repository
 
 ---
 
-## 🧠 Simple Explanation
+## Simple Explanation
 
 1. You edit files
 2. Add them (`git add`)
@@ -16,7 +16,7 @@ Working Directory → Staging Area → Repository
 
 ---
 
-## 🔁 Flow Example
+## Flow Example
 
 ```bash
 git add .
@@ -25,7 +25,7 @@ git commit -m "Updated project"
 
 ---
 
-## 📊 Workflow Diagram
+## Workflow Diagram
 
 ```
 Code → Add → Commit → Saved
