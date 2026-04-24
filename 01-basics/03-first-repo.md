@@ -1,12 +1,12 @@
-# 📁 Creating Your First Git Repository
+# Creating Your First Git Repository
 
-## 🔹 What is a Repository?
+## What is a Repository?
 
 A repository (repo) is a folder where Git tracks your project.
 
 ---
 
-## 🚀 Steps to Create Repo
+## Steps to Create Repo
 
 ### 1. Create a folder
 
