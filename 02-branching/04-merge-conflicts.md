@@ -44,6 +44,3 @@ git commit -m "Resolved conflict"
 
 ---
 
-## Summary
-
-Conflict = Same line edited in multiple branches

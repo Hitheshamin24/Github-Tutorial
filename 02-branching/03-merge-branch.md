@@ -32,7 +32,3 @@ main ← feature-login
 
 ---
 
-## Summary
-
-* Work in branch
-* Merge into main
